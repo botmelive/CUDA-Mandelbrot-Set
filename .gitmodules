@@ -1,0 +1,6 @@
+[submodule "libs/glew"]
+	path = libs/glew
+	url = https://github.com/Perlmint/glew-cmake.git
+[submodule "libs/freeglut"]
+	path = libs/freeglut
+	url = https://github.com/FreeGLUTProject/freeglut.git
